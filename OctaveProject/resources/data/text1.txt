@@ -1,0 +1,1 @@
+Text mining is the process of extracting information from text. A range of terms is common in the industry, such as text mining and information mining. The analysis processes build on techniques from Natural Language Processing, Computational Linguistics and Data Science.
